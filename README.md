@@ -1,12 +1,13 @@
 # airwallex
 
 ## Project setup
+### 运行项目请输入以下命令
+
 ```
 npm install
 ```
 
 ### Compiles and hot-reloads for development
-### 运行项目请输入以下命令
 ```
 npm run serve
 ```
